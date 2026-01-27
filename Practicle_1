@@ -1,0 +1,15 @@
+public class Main {
+    public static void main(String[] args) {
+
+        int a = 20;
+        String name = "Hemant";
+        float salary = 0;
+        char gender = 'M';
+
+        System.out.println("Hello and welcome!");
+        System.out.println("my name is : " + name);
+        System.out.println("my gender is : " + gender);
+        System.out.println("my age is : " + a);
+        System.out.println("my salary is : " + salary);
+    }
+}
