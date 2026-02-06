@@ -60,9 +60,9 @@ public class BankDemo {
         account.getAccountDetails(name, number, initialBalance);
 
         
-        account.deposit(2000);   // Example deposit
-        account.withdraw(500);   // Example withdrawal
-        account.displayDetails(); // Display final details
+        account.deposit(2000);   
+        account.withdraw(500);  
+        account.displayDetails(); 
 
         sc.close();
     }
